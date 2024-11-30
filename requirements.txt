@@ -1,0 +1,8 @@
+beautifulsoup4==4.12.3
+requests==2.29.0
+selenium==4.10.0
+scrapy==2.8.0
+regex==2024.10.1
+pandas==1.5.4
+numpy==1.24.3
+lxml==4.10.1
