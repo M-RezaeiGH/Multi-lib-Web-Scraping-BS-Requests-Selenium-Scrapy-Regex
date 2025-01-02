@@ -3,6 +3,12 @@
 This repository is a **comprehensive web scraping project** that leverages multiple Python libraries, including **BeautifulSoup, Requests, Selenium, Scrapy, and Regex**, to extract and process data from websites. The purpose of this project is to demonstrate a variety of web scraping techniques, ranging from simple HTTP requests to advanced browser automation and framework usage.
 
 ---
+## 👨‍💻 Developer
+
+**Mohammad Reza Rezaei**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/m-rezaei/)
+
+---
 
 ### 🚀 **Project Overview**:
 The repository contains various Python scripts, each showcasing specific use cases and challenges of web scraping. Key topics covered include:  
